@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260202-120736-5q98",
+    "title": "Slap Dat Assassin",
+    "commanders": [
+      "Slap Dat Assassin"
+    ],
+    "dateStart": "2026-02-02T02:07:36.000Z",
+    "dateEnd": "2026-02-02T04:02:07.000Z",
+    "dateLabel": "2/2/2026, 12:07:36 PM - 2/2/2026, 2:02:07 PM",
+    "url": "https://Humpy1990.github.io/humpygw2/?report=20260202-120736-5q98",
+    "summary": {
+      "borderlandsPct": 0.2222222222222222,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 42,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 12,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 33
+    }
+  },
+  {
     "id": "20260201-115207-vk5j",
     "title": "Political Violence, Slap Dat Assassin",
     "commanders": [

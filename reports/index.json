@@ -1,5 +1,30 @@
 [
   {
+    "id": "20260204-123600-34dr",
+    "title": "Austrailian Kiss, Slap Dat Assassin, Ur New Step Dad",
+    "commanders": [
+      "Austrailian Kiss",
+      "Slap Dat Assassin",
+      "Ur New Step Dad"
+    ],
+    "dateStart": "2026-02-04T02:36:00.000Z",
+    "dateEnd": "2026-02-04T03:49:30.000Z",
+    "dateLabel": "2/4/2026, 12:36:00 PM - 2/4/2026, 1:49:30 PM",
+    "url": "https://Humpy1990.github.io/humpygw2/?report=20260204-123600-34dr",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 24,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 16,
+      "avgEnemySize": 37
+    }
+  },
+  {
     "id": "20260202-120736-1kd1",
     "title": "Slap Dat Assassin",
     "commanders": [

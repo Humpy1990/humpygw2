@@ -1,5 +1,43 @@
 [
   {
+    "id": "20260208-122005-ah1b",
+    "title": "Slap Dat Assassin",
+    "commanders": [
+      "Slap Dat Assassin"
+    ],
+    "dateStart": "2026-02-08T02:20:05.000Z",
+    "dateEnd": "2026-02-08T03:39:15.000Z",
+    "dateLabel": "2/8/2026, 12:20:05 PM - 2/8/2026, 1:39:15 PM",
+    "url": "https://Humpy1990.github.io/humpygw2/?report=20260208-122005-ah1b",
+    "summary": {
+      "borderlandsPct": 0.967741935483871,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 17,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 12,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Obsidian Sanctum",
+          "value": 1,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 18,
+      "avgEnemySize": 28
+    }
+  },
+  {
     "id": "20260207-120920-ypmq",
     "title": "Leo Stole My Heart",
     "commanders": [

@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260211-115428-w6m6",
+    "title": "Slap Dat Assassin",
+    "commanders": [
+      "Slap Dat Assassin"
+    ],
+    "dateStart": "2026-02-11T01:54:28.000Z",
+    "dateEnd": "2026-02-11T03:58:10.000Z",
+    "dateLabel": "2/11/2026, 11:54:28 AM - 2/11/2026, 1:58:10 PM",
+    "url": "https://Humpy1990.github.io/humpygw2/?report=20260211-115428-w6m6",
+    "summary": {
+      "borderlandsPct": 0.03773584905660377,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 51,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 17,
+      "avgEnemySize": 20
+    }
+  },
+  {
     "id": "20260208-122005-ah1b",
     "title": "Slap Dat Assassin",
     "commanders": [

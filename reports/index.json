@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260212-195922-xjz3",
+    "title": "Leo Alistair, Leo Altyr",
+    "commanders": [
+      "Leo Alistair",
+      "Leo Altyr"
+    ],
+    "dateStart": "2026-02-12T09:59:22.000Z",
+    "dateEnd": "2026-02-12T11:02:13.000Z",
+    "dateLabel": "2/12/2026, 7:59:22 PM - 2/12/2026, 9:02:13 PM",
+    "url": "https://Humpy1990.github.io/humpygw2/?report=20260212-195922-xjz3",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 17,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 19
+    }
+  },
+  {
     "id": "20260211-115428-w6m6",
     "title": "Slap Dat Assassin",
     "commanders": [

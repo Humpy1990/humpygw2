@@ -1,5 +1,38 @@
 [
   {
+    "id": "20260218-120756-dq76",
+    "title": "Ur New Step Dad",
+    "commanders": [
+      "Ur New Step Dad"
+    ],
+    "dateStart": "2026-02-18T02:07:56.000Z",
+    "dateEnd": "2026-02-18T04:01:00.000Z",
+    "dateLabel": "2/18/2026, 12:07:56 PM - 2/18/2026, 2:01:00 PM",
+    "url": "https://Humpy1990.github.io/humpygw2/?report=20260218-120756-dq76",
+    "summary": {
+      "borderlandsPct": 0.1836734693877551,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 40,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 4,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 27
+    }
+  },
+  {
     "id": "20260217-112229-pg46",
     "title": "As We Elevate, Maryth Gatekeeper, Trash Root, Ur New Step Dad",
     "commanders": [

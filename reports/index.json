@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260222-115437-gm8v",
+    "title": "Big Daddy Booner, Ur New Step Dad",
+    "commanders": [
+      "Big Daddy Booner",
+      "Ur New Step Dad"
+    ],
+    "dateStart": "2026-02-22T01:54:37.000Z",
+    "dateEnd": "2026-02-22T04:11:58.000Z",
+    "dateLabel": "2/22/2026, 11:54:37 AM - 2/22/2026, 2:11:58 PM",
+    "url": "https://Humpy1990.github.io/humpygw2/?report=20260222-115437-gm8v",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 54,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 30
+    }
+  },
+  {
     "id": "20260218-120756-dq76",
     "title": "Ur New Step Dad",
     "commanders": [

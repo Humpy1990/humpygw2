@@ -1,5 +1,35 @@
 [
   {
+    "id": "20260224-191855-q4ve",
+    "title": "Leo Alistair, Leo Alistàir, Vicious Leo",
+    "commanders": [
+      "Leo Alistair",
+      "Leo Alistàir",
+      "Vicious Leo"
+    ],
+    "dateStart": "2026-02-24T09:18:55.000Z",
+    "dateEnd": "2026-02-24T11:00:30.000Z",
+    "dateLabel": "2/24/2026, 7:18:55 PM - 2/24/2026, 9:00:30 PM",
+    "url": "https://Humpy1990.github.io/humpygw2/?report=20260224-191855-q4ve",
+    "summary": {
+      "borderlandsPct": 0.022222222222222223,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 44,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 8,
+      "avgEnemySize": 18
+    }
+  },
+  {
     "id": "20260224-115542-lxlr",
     "title": "Big Daddy Booner",
     "commanders": [

@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260302-120859-vbln",
+    "title": "Slap Dat Assassin",
+    "commanders": [
+      "Slap Dat Assassin"
+    ],
+    "dateStart": "2026-03-02T02:08:59.000Z",
+    "dateEnd": "2026-03-02T02:54:32.000Z",
+    "dateLabel": "3/2/2026, 12:08:59 PM - 3/2/2026, 12:54:32 PM",
+    "url": "https://Humpy1990.github.io/humpygw2/?report=20260302-120859-vbln",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 17,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 18,
+      "avgEnemySize": 16
+    }
+  },
+  {
     "id": "20260302-132508-9fjh",
     "title": "Slap Dat Assassin, Suki Scratches",
     "commanders": [

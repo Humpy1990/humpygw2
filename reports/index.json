@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260302-132508-9fjh",
+    "title": "Slap Dat Assassin, Suki Scratches",
+    "commanders": [
+      "Slap Dat Assassin",
+      "Suki Scratches"
+    ],
+    "dateStart": "2026-03-02T03:25:08.000Z",
+    "dateEnd": "2026-03-02T03:35:38.000Z",
+    "dateLabel": "3/2/2026, 1:25:08 PM - 3/2/2026, 1:35:38 PM",
+    "url": "https://Humpy1990.github.io/humpygw2/?report=20260302-132508-9fjh",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Obsidian Sanctum",
+          "value": 5,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 18,
+      "avgEnemySize": 16
+    }
+  },
+  {
     "id": "20260302-115437-boec",
     "title": "Slap Dat Assassin, Suki Scratches",
     "commanders": [

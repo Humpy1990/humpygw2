@@ -1,5 +1,39 @@
 [
   {
+    "id": "20260302-115437-boec",
+    "title": "Slap Dat Assassin, Suki Scratches",
+    "commanders": [
+      "Slap Dat Assassin",
+      "Suki Scratches"
+    ],
+    "dateStart": "2026-03-02T01:54:37.000Z",
+    "dateEnd": "2026-03-02T03:35:21.000Z",
+    "dateLabel": "3/2/2026, 11:54:37 AM - 3/2/2026, 1:35:21 PM",
+    "url": "https://Humpy1990.github.io/humpygw2/?report=20260302-115437-boec",
+    "summary": {
+      "borderlandsPct": 0.21052631578947367,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 46,
+          "color": "#64748b"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 16,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Obsidian Sanctum",
+          "value": 14,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 15,
+      "avgEnemySize": 14
+    }
+  },
+  {
     "id": "20260301-115721-q8mo",
     "title": "Austrailian Kiss, Slap Dat Assassin",
     "commanders": [

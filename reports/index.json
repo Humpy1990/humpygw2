@@ -1,612 +1,647 @@
-[
-  {
-    "id": "20260302-120859-vbln",
-    "title": "Slap Dat Assassin",
-    "commanders": [
-      "Slap Dat Assassin"
-    ],
-    "dateStart": "2026-03-02T02:08:59.000Z",
-    "dateEnd": "2026-03-02T02:54:32.000Z",
-    "dateLabel": "3/2/2026, 12:08:59 PM - 3/2/2026, 12:54:32 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260302-120859-vbln",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 17,
-          "color": "#64748b"
-        }
-      ],
-      "avgSquadSize": 18,
-      "avgEnemySize": 16
-    }
+{
+  "siteTheme": {
+    "ui": "matte",
+    "paletteId": "MatteSlate",
+    "kineticFont": "default"
   },
-  {
-    "id": "20260302-132508-9fjh",
-    "title": "Slap Dat Assassin, Suki Scratches",
-    "commanders": [
-      "Slap Dat Assassin",
-      "Suki Scratches"
-    ],
-    "dateStart": "2026-03-02T03:25:08.000Z",
-    "dateEnd": "2026-03-02T03:35:38.000Z",
-    "dateLabel": "3/2/2026, 1:25:08 PM - 3/2/2026, 1:35:38 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260302-132508-9fjh",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Obsidian Sanctum",
-          "value": 5,
-          "color": "#64748b"
-        }
+  "entries": [
+    {
+      "id": "20260308-120819-b6yq",
+      "title": "Ur New Step Dad",
+      "commanders": [
+        "Ur New Step Dad"
       ],
-      "avgSquadSize": 18,
-      "avgEnemySize": 16
-    }
-  },
-  {
-    "id": "20260302-115437-boec",
-    "title": "Slap Dat Assassin, Suki Scratches",
-    "commanders": [
-      "Slap Dat Assassin",
-      "Suki Scratches"
-    ],
-    "dateStart": "2026-03-02T01:54:37.000Z",
-    "dateEnd": "2026-03-02T03:35:21.000Z",
-    "dateLabel": "3/2/2026, 11:54:37 AM - 3/2/2026, 1:35:21 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260302-115437-boec",
-    "summary": {
-      "borderlandsPct": 0.21052631578947367,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 46,
-          "color": "#64748b"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 16,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Obsidian Sanctum",
-          "value": 14,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-03-08T02:08:19.000Z",
+      "dateEnd": "2026-03-08T02:53:40.000Z",
+      "dateLabel": "3/8/2026, 12:08:19 PM - 3/8/2026, 12:53:40 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260308-120819-b6yq",
+      "summary": {
+        "borderlandsPct": 0.8888888888888888,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 32,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 22
+      }
+    },
+    {
+      "id": "20260302-120859-vbln",
+      "title": "Slap Dat Assassin",
+      "commanders": [
+        "Slap Dat Assassin"
       ],
-      "avgSquadSize": 15,
-      "avgEnemySize": 14
-    }
-  },
-  {
-    "id": "20260301-115721-q8mo",
-    "title": "Austrailian Kiss, Slap Dat Assassin",
-    "commanders": [
-      "Austrailian Kiss",
-      "Slap Dat Assassin"
-    ],
-    "dateStart": "2026-03-01T01:57:21.000Z",
-    "dateEnd": "2026-03-01T03:55:11.000Z",
-    "dateLabel": "3/1/2026, 11:57:21 AM - 3/1/2026, 1:55:11 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260301-115721-q8mo",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 30,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 14,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-02T02:08:59.000Z",
+      "dateEnd": "2026-03-02T02:54:32.000Z",
+      "dateLabel": "3/2/2026, 12:08:59 PM - 3/2/2026, 12:54:32 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260302-120859-vbln",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 16
+      }
+    },
+    {
+      "id": "20260302-132508-9fjh",
+      "title": "Slap Dat Assassin, Suki Scratches",
+      "commanders": [
+        "Slap Dat Assassin",
+        "Suki Scratches"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 26
-    }
-  },
-  {
-    "id": "20260225-121158-n4eu",
-    "title": "Slap Dat Assassin, Ur New Step Dad",
-    "commanders": [
-      "Slap Dat Assassin",
-      "Ur New Step Dad"
-    ],
-    "dateStart": "2026-02-25T02:11:58.000Z",
-    "dateEnd": "2026-02-25T03:44:32.000Z",
-    "dateLabel": "2/25/2026, 12:11:58 PM - 2/25/2026, 1:44:32 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260225-121158-n4eu",
-    "summary": {
-      "borderlandsPct": 0.3902439024390244,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 25,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 10,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 6,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-03-02T03:25:08.000Z",
+      "dateEnd": "2026-03-02T03:35:38.000Z",
+      "dateLabel": "3/2/2026, 1:25:08 PM - 3/2/2026, 1:35:38 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260302-132508-9fjh",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 5,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 16
+      }
+    },
+    {
+      "id": "20260302-115437-boec",
+      "title": "Slap Dat Assassin, Suki Scratches",
+      "commanders": [
+        "Slap Dat Assassin",
+        "Suki Scratches"
       ],
-      "avgSquadSize": 17,
-      "avgEnemySize": 31
-    }
-  },
-  {
-    "id": "20260224-191855-q4ve",
-    "title": "Leo Alistair, Leo Alistàir, Vicious Leo",
-    "commanders": [
-      "Leo Alistair",
-      "Leo Alistàir",
-      "Vicious Leo"
-    ],
-    "dateStart": "2026-02-24T09:18:55.000Z",
-    "dateEnd": "2026-02-24T11:00:30.000Z",
-    "dateLabel": "2/24/2026, 7:18:55 PM - 2/24/2026, 9:00:30 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260224-191855-q4ve",
-    "summary": {
-      "borderlandsPct": 0.022222222222222223,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 44,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-02T01:54:37.000Z",
+      "dateEnd": "2026-03-02T03:35:21.000Z",
+      "dateLabel": "3/2/2026, 11:54:37 AM - 3/2/2026, 1:35:21 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260302-115437-boec",
+      "summary": {
+        "borderlandsPct": 0.21052631578947367,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 46,
+            "color": "#64748b"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 14
+      }
+    },
+    {
+      "id": "20260301-115721-q8mo",
+      "title": "Austrailian Kiss, Slap Dat Assassin",
+      "commanders": [
+        "Austrailian Kiss",
+        "Slap Dat Assassin"
       ],
-      "avgSquadSize": 8,
-      "avgEnemySize": 18
-    }
-  },
-  {
-    "id": "20260224-115542-lxlr",
-    "title": "Big Daddy Booner",
-    "commanders": [
-      "Big Daddy Booner"
-    ],
-    "dateStart": "2026-02-24T01:55:42.000Z",
-    "dateEnd": "2026-02-24T03:58:30.000Z",
-    "dateLabel": "2/24/2026, 11:55:42 AM - 2/24/2026, 1:58:30 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260224-115542-lxlr",
-    "summary": {
-      "borderlandsPct": 0.925,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 34,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 3,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 3,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-03-01T01:57:21.000Z",
+      "dateEnd": "2026-03-01T03:55:11.000Z",
+      "dateLabel": "3/1/2026, 11:57:21 AM - 3/1/2026, 1:55:11 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260301-115721-q8mo",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 30,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 26
+      }
+    },
+    {
+      "id": "20260225-121158-n4eu",
+      "title": "Slap Dat Assassin, Ur New Step Dad",
+      "commanders": [
+        "Slap Dat Assassin",
+        "Ur New Step Dad"
       ],
-      "avgSquadSize": 22,
-      "avgEnemySize": 32
-    }
-  },
-  {
-    "id": "20260223-113926-shod",
-    "title": "Leo Stole My Heart",
-    "commanders": [
-      "Leo Stole My Heart"
-    ],
-    "dateStart": "2026-02-23T01:39:26.000Z",
-    "dateEnd": "2026-02-23T03:38:31.000Z",
-    "dateLabel": "2/23/2026, 11:39:26 AM - 2/23/2026, 1:38:31 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260223-113926-shod",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 27,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-25T02:11:58.000Z",
+      "dateEnd": "2026-02-25T03:44:32.000Z",
+      "dateLabel": "2/25/2026, 12:11:58 PM - 2/25/2026, 1:44:32 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260225-121158-n4eu",
+      "summary": {
+        "borderlandsPct": 0.3902439024390244,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 31
+      }
+    },
+    {
+      "id": "20260224-191855-q4ve",
+      "title": "Leo Alistair, Leo Alistàir, Vicious Leo",
+      "commanders": [
+        "Leo Alistair",
+        "Leo Alistàir",
+        "Vicious Leo"
       ],
-      "avgSquadSize": 30,
-      "avgEnemySize": 47
-    }
-  },
-  {
-    "id": "20260222-115437-gm8v",
-    "title": "Big Daddy Booner, Ur New Step Dad",
-    "commanders": [
-      "Big Daddy Booner",
-      "Ur New Step Dad"
-    ],
-    "dateStart": "2026-02-22T01:54:37.000Z",
-    "dateEnd": "2026-02-22T04:11:58.000Z",
-    "dateLabel": "2/22/2026, 11:54:37 AM - 2/22/2026, 2:11:58 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260222-115437-gm8v",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 54,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-24T09:18:55.000Z",
+      "dateEnd": "2026-02-24T11:00:30.000Z",
+      "dateLabel": "2/24/2026, 7:18:55 PM - 2/24/2026, 9:00:30 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260224-191855-q4ve",
+      "summary": {
+        "borderlandsPct": 0.022222222222222223,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 44,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 18
+      }
+    },
+    {
+      "id": "20260224-115542-lxlr",
+      "title": "Big Daddy Booner",
+      "commanders": [
+        "Big Daddy Booner"
       ],
-      "avgSquadSize": 19,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260218-120756-dq76",
-    "title": "Ur New Step Dad",
-    "commanders": [
-      "Ur New Step Dad"
-    ],
-    "dateStart": "2026-02-18T02:07:56.000Z",
-    "dateEnd": "2026-02-18T04:01:00.000Z",
-    "dateLabel": "2/18/2026, 12:07:56 PM - 2/18/2026, 2:01:00 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260218-120756-dq76",
-    "summary": {
-      "borderlandsPct": 0.1836734693877551,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 40,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 4,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-24T01:55:42.000Z",
+      "dateEnd": "2026-02-24T03:58:30.000Z",
+      "dateLabel": "2/24/2026, 11:55:42 AM - 2/24/2026, 1:58:30 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260224-115542-lxlr",
+      "summary": {
+        "borderlandsPct": 0.925,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 34,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 32
+      }
+    },
+    {
+      "id": "20260223-113926-shod",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 27
-    }
-  },
-  {
-    "id": "20260217-112229-pg46",
-    "title": "As We Elevate, Maryth Gatekeeper, Trash Root, Ur New Step Dad",
-    "commanders": [
-      "As We Elevate",
-      "Maryth Gatekeeper",
-      "Trash Root",
-      "Ur New Step Dad"
-    ],
-    "dateStart": "2026-02-17T01:22:29.000Z",
-    "dateEnd": "2026-02-17T04:00:44.000Z",
-    "dateLabel": "2/17/2026, 11:22:29 AM - 2/17/2026, 2:00:44 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260217-112229-pg46",
-    "summary": {
-      "borderlandsPct": 0.8947368421052632,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 43,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 8,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 6,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-23T01:39:26.000Z",
+      "dateEnd": "2026-02-23T03:38:31.000Z",
+      "dateLabel": "2/23/2026, 11:39:26 AM - 2/23/2026, 1:38:31 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260223-113926-shod",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 47
+      }
+    },
+    {
+      "id": "20260222-115437-gm8v",
+      "title": "Big Daddy Booner, Ur New Step Dad",
+      "commanders": [
+        "Big Daddy Booner",
+        "Ur New Step Dad"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 31
-    }
-  },
-  {
-    "id": "20260216-111724-7mo6",
-    "title": "Gyatt Smasher, Ur New Step Dad",
-    "commanders": [
-      "Gyatt Smasher",
-      "Ur New Step Dad"
-    ],
-    "dateStart": "2026-02-16T01:17:24.000Z",
-    "dateEnd": "2026-02-16T03:25:25.000Z",
-    "dateLabel": "2/16/2026, 11:17:24 AM - 2/16/2026, 1:25:25 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260216-111724-7mo6",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 21,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 6,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 6,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-22T01:54:37.000Z",
+      "dateEnd": "2026-02-22T04:11:58.000Z",
+      "dateLabel": "2/22/2026, 11:54:37 AM - 2/22/2026, 2:11:58 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260222-115437-gm8v",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 54,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 30
+      }
+    },
+    {
+      "id": "20260218-120756-dq76",
+      "title": "Ur New Step Dad",
+      "commanders": [
+        "Ur New Step Dad"
       ],
-      "avgSquadSize": 11,
-      "avgEnemySize": 24
-    }
-  },
-  {
-    "id": "20260215-115448-1n41",
-    "title": "Leo Stole My Heart, Political Violence, Slap Dat Assassin",
-    "commanders": [
-      "Leo Stole My Heart",
-      "Political Violence",
-      "Slap Dat Assassin"
-    ],
-    "dateStart": "2026-02-15T01:54:48.000Z",
-    "dateEnd": "2026-02-15T03:26:43.000Z",
-    "dateLabel": "2/15/2026, 11:54:48 AM - 2/15/2026, 1:26:43 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260215-115448-1n41",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 40,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-18T02:07:56.000Z",
+      "dateEnd": "2026-02-18T04:01:00.000Z",
+      "dateLabel": "2/18/2026, 12:07:56 PM - 2/18/2026, 2:01:00 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260218-120756-dq76",
+      "summary": {
+        "borderlandsPct": 0.1836734693877551,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 27
+      }
+    },
+    {
+      "id": "20260217-112229-pg46",
+      "title": "As We Elevate, Maryth Gatekeeper, Trash Root, Ur New Step Dad",
+      "commanders": [
+        "As We Elevate",
+        "Maryth Gatekeeper",
+        "Trash Root",
+        "Ur New Step Dad"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 32
-    }
-  },
-  {
-    "id": "20260212-195922-xjz3",
-    "title": "Leo Alistair, Leo Altyr",
-    "commanders": [
-      "Leo Alistair",
-      "Leo Altyr"
-    ],
-    "dateStart": "2026-02-12T09:59:22.000Z",
-    "dateEnd": "2026-02-12T11:02:13.000Z",
-    "dateLabel": "2/12/2026, 7:59:22 PM - 2/12/2026, 9:02:13 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260212-195922-xjz3",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 17,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-17T01:22:29.000Z",
+      "dateEnd": "2026-02-17T04:00:44.000Z",
+      "dateLabel": "2/17/2026, 11:22:29 AM - 2/17/2026, 2:00:44 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260217-112229-pg46",
+      "summary": {
+        "borderlandsPct": 0.8947368421052632,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 43,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 31
+      }
+    },
+    {
+      "id": "20260216-111724-7mo6",
+      "title": "Gyatt Smasher, Ur New Step Dad",
+      "commanders": [
+        "Gyatt Smasher",
+        "Ur New Step Dad"
       ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 19
-    }
-  },
-  {
-    "id": "20260211-115428-w6m6",
-    "title": "Slap Dat Assassin",
-    "commanders": [
-      "Slap Dat Assassin"
-    ],
-    "dateStart": "2026-02-11T01:54:28.000Z",
-    "dateEnd": "2026-02-11T03:58:10.000Z",
-    "dateLabel": "2/11/2026, 11:54:28 AM - 2/11/2026, 1:58:10 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260211-115428-w6m6",
-    "summary": {
-      "borderlandsPct": 0.03773584905660377,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 51,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 2,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-16T01:17:24.000Z",
+      "dateEnd": "2026-02-16T03:25:25.000Z",
+      "dateLabel": "2/16/2026, 11:17:24 AM - 2/16/2026, 1:25:25 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260216-111724-7mo6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 24
+      }
+    },
+    {
+      "id": "20260215-115448-1n41",
+      "title": "Leo Stole My Heart, Political Violence, Slap Dat Assassin",
+      "commanders": [
+        "Leo Stole My Heart",
+        "Political Violence",
+        "Slap Dat Assassin"
       ],
-      "avgSquadSize": 17,
-      "avgEnemySize": 20
-    }
-  },
-  {
-    "id": "20260208-122005-ah1b",
-    "title": "Slap Dat Assassin",
-    "commanders": [
-      "Slap Dat Assassin"
-    ],
-    "dateStart": "2026-02-08T02:20:05.000Z",
-    "dateEnd": "2026-02-08T03:39:15.000Z",
-    "dateLabel": "2/8/2026, 12:20:05 PM - 2/8/2026, 1:39:15 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260208-122005-ah1b",
-    "summary": {
-      "borderlandsPct": 0.967741935483871,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 17,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 12,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Obsidian Sanctum",
-          "value": 1,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-15T01:54:48.000Z",
+      "dateEnd": "2026-02-15T03:26:43.000Z",
+      "dateLabel": "2/15/2026, 11:54:48 AM - 2/15/2026, 1:26:43 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260215-115448-1n41",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 40,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 32
+      }
+    },
+    {
+      "id": "20260212-195922-xjz3",
+      "title": "Leo Alistair, Leo Altyr",
+      "commanders": [
+        "Leo Alistair",
+        "Leo Altyr"
       ],
-      "avgSquadSize": 18,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260207-120920-ypmq",
-    "title": "Leo Stole My Heart",
-    "commanders": [
-      "Leo Stole My Heart"
-    ],
-    "dateStart": "2026-02-07T02:09:20.000Z",
-    "dateEnd": "2026-02-07T03:45:09.000Z",
-    "dateLabel": "2/7/2026, 12:09:20 PM - 2/7/2026, 1:45:09 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260207-120920-ypmq",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 33,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-12T09:59:22.000Z",
+      "dateEnd": "2026-02-12T11:02:13.000Z",
+      "dateLabel": "2/12/2026, 7:59:22 PM - 2/12/2026, 9:02:13 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260212-195922-xjz3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 19
+      }
+    },
+    {
+      "id": "20260211-115428-w6m6",
+      "title": "Slap Dat Assassin",
+      "commanders": [
+        "Slap Dat Assassin"
       ],
-      "avgSquadSize": 38,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260204-123600-34dr",
-    "title": "Austrailian Kiss, Slap Dat Assassin, Ur New Step Dad",
-    "commanders": [
-      "Austrailian Kiss",
-      "Slap Dat Assassin",
-      "Ur New Step Dad"
-    ],
-    "dateStart": "2026-02-04T02:36:00.000Z",
-    "dateEnd": "2026-02-04T03:49:30.000Z",
-    "dateLabel": "2/4/2026, 12:36:00 PM - 2/4/2026, 1:49:30 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260204-123600-34dr",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 24,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-11T01:54:28.000Z",
+      "dateEnd": "2026-02-11T03:58:10.000Z",
+      "dateLabel": "2/11/2026, 11:54:28 AM - 2/11/2026, 1:58:10 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260211-115428-w6m6",
+      "summary": {
+        "borderlandsPct": 0.03773584905660377,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 51,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 20
+      }
+    },
+    {
+      "id": "20260208-122005-ah1b",
+      "title": "Slap Dat Assassin",
+      "commanders": [
+        "Slap Dat Assassin"
       ],
-      "avgSquadSize": 16,
-      "avgEnemySize": 37
-    }
-  },
-  {
-    "id": "20260202-120736-1kd1",
-    "title": "Slap Dat Assassin",
-    "commanders": [
-      "Slap Dat Assassin"
-    ],
-    "dateStart": "2026-02-02T02:07:36.000Z",
-    "dateEnd": "2026-02-02T04:02:07.000Z",
-    "dateLabel": "2/2/2026, 12:07:36 PM - 2/2/2026, 2:02:07 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260202-120736-1kd1",
-    "summary": {
-      "borderlandsPct": 0.2222222222222222,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 42,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 12,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-02-08T02:20:05.000Z",
+      "dateEnd": "2026-02-08T03:39:15.000Z",
+      "dateLabel": "2/8/2026, 12:20:05 PM - 2/8/2026, 1:39:15 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260208-122005-ah1b",
+      "summary": {
+        "borderlandsPct": 0.967741935483871,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 28
+      }
+    },
+    {
+      "id": "20260207-120920-ypmq",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 33
-    }
-  },
-  {
-    "id": "20260202-120736-5q98",
-    "title": "Slap Dat Assassin",
-    "commanders": [
-      "Slap Dat Assassin"
-    ],
-    "dateStart": "2026-02-02T02:07:36.000Z",
-    "dateEnd": "2026-02-02T04:02:07.000Z",
-    "dateLabel": "2/2/2026, 12:07:36 PM - 2/2/2026, 2:02:07 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260202-120736-5q98",
-    "summary": {
-      "borderlandsPct": 0.2222222222222222,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 42,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 12,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-02-07T02:09:20.000Z",
+      "dateEnd": "2026-02-07T03:45:09.000Z",
+      "dateLabel": "2/7/2026, 12:09:20 PM - 2/7/2026, 1:45:09 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260207-120920-ypmq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 33,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260204-123600-34dr",
+      "title": "Austrailian Kiss, Slap Dat Assassin, Ur New Step Dad",
+      "commanders": [
+        "Austrailian Kiss",
+        "Slap Dat Assassin",
+        "Ur New Step Dad"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 33
-    }
-  },
-  {
-    "id": "20260201-115207-vk5j",
-    "title": "Political Violence, Slap Dat Assassin",
-    "commanders": [
-      "Political Violence",
-      "Slap Dat Assassin"
-    ],
-    "dateStart": "2026-02-01T01:52:07.000Z",
-    "dateEnd": "2026-02-01T04:03:41.000Z",
-    "dateLabel": "2/1/2026, 11:52:07 AM - 2/1/2026, 2:03:41 PM",
-    "url": "https://Humpy1990.github.io/humpygw2/?report=20260201-115207-vk5j",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 31,
-          "color": "#10b981"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 9,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 6,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-04T02:36:00.000Z",
+      "dateEnd": "2026-02-04T03:49:30.000Z",
+      "dateLabel": "2/4/2026, 12:36:00 PM - 2/4/2026, 1:49:30 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260204-123600-34dr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 37
+      }
+    },
+    {
+      "id": "20260202-120736-1kd1",
+      "title": "Slap Dat Assassin",
+      "commanders": [
+        "Slap Dat Assassin"
       ],
-      "avgSquadSize": 19,
-      "avgEnemySize": 29
+      "dateStart": "2026-02-02T02:07:36.000Z",
+      "dateEnd": "2026-02-02T04:02:07.000Z",
+      "dateLabel": "2/2/2026, 12:07:36 PM - 2/2/2026, 2:02:07 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260202-120736-1kd1",
+      "summary": {
+        "borderlandsPct": 0.2222222222222222,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 33
+      }
+    },
+    {
+      "id": "20260202-120736-5q98",
+      "title": "Slap Dat Assassin",
+      "commanders": [
+        "Slap Dat Assassin"
+      ],
+      "dateStart": "2026-02-02T02:07:36.000Z",
+      "dateEnd": "2026-02-02T04:02:07.000Z",
+      "dateLabel": "2/2/2026, 12:07:36 PM - 2/2/2026, 2:02:07 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260202-120736-5q98",
+      "summary": {
+        "borderlandsPct": 0.2222222222222222,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 33
+      }
+    },
+    {
+      "id": "20260201-115207-vk5j",
+      "title": "Political Violence, Slap Dat Assassin",
+      "commanders": [
+        "Political Violence",
+        "Slap Dat Assassin"
+      ],
+      "dateStart": "2026-02-01T01:52:07.000Z",
+      "dateEnd": "2026-02-01T04:03:41.000Z",
+      "dateLabel": "2/1/2026, 11:52:07 AM - 2/1/2026, 2:03:41 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260201-115207-vk5j",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 31,
+            "color": "#10b981"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 29
+      }
     }
-  }
-]
+  ]
+}

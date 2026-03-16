@@ -6,6 +6,30 @@
   },
   "entries": [
     {
+      "id": "20260316-111653-o9ka",
+      "title": "Slap Dat Assassin, Ur New Step Dad",
+      "commanders": [
+        "Slap Dat Assassin",
+        "Ur New Step Dad"
+      ],
+      "dateStart": "2026-03-16T01:16:53.000Z",
+      "dateEnd": "2026-03-16T02:57:04.000Z",
+      "dateLabel": "3/16/2026, 11:16:53 AM - 3/16/2026, 12:57:04 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260316-111653-o9ka",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 39,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260315-111353-4i39",
       "title": "Slap Dat Assassin",
       "commanders": [

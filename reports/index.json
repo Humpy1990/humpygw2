@@ -6,6 +6,30 @@
   },
   "entries": [
     {
+      "id": "20260322-114452-pano",
+      "title": "Austrailian Kiss, Tik Tok Ban",
+      "commanders": [
+        "Austrailian Kiss",
+        "Tik Tok Ban"
+      ],
+      "dateStart": "2026-03-22T01:44:52.000Z",
+      "dateEnd": "2026-03-22T02:30:08.000Z",
+      "dateLabel": "3/22/2026, 11:44:52 AM - 3/22/2026, 12:30:08 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260322-114452-pano",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260316-111653-o9ka",
       "title": "Slap Dat Assassin, Ur New Step Dad",
       "commanders": [

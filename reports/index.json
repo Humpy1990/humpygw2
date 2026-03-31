@@ -1,10 +1,35 @@
 {
-  "siteTheme": {
-    "ui": "matte",
-    "paletteId": "MatteSlate",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260331-110216-7uvk",
+      "title": "Fwog Wizzard",
+      "commanders": [
+        "Fwog Wizzard"
+      ],
+      "dateStart": "2026-03-31T01:02:16.000Z",
+      "dateEnd": "2026-03-31T02:28:22.000Z",
+      "dateLabel": "3/31/2026, 11:02:16 AM - 3/31/2026, 12:28:22 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260331-110216-7uvk",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 16
+      }
+    },
     {
       "id": "20260322-114452-pano",
       "title": "Austrailian Kiss, Tik Tok Ban",

@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260408-110435-1sq6",
+      "title": "Mænda",
+      "commanders": [
+        "Mænda"
+      ],
+      "dateStart": "2026-04-08T01:04:35.000Z",
+      "dateEnd": "2026-04-08T02:27:57.000Z",
+      "dateLabel": "4/8/2026, 11:04:35 AM - 4/8/2026, 12:27:57 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260408-110435-1sq6",
+      "summary": {
+        "borderlandsPct": 0.9375,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260401-105641-osr3",
       "title": "Cant Nerf Me, Felicias Toes, Its Daddy To You",
       "commanders": [

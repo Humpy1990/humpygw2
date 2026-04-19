@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260419-104510-8git",
+      "title": "Mænda",
+      "commanders": [
+        "Mænda"
+      ],
+      "dateStart": "2026-04-19T00:45:10.000Z",
+      "dateEnd": "2026-04-19T02:01:46.000Z",
+      "dateLabel": "4/19/2026, 10:45:10 AM - 4/19/2026, 12:01:46 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260419-104510-8git",
+      "summary": {
+        "borderlandsPct": 0.8125,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260415-103015-joay",
       "title": "Leo Stole My Heart",
       "commanders": [

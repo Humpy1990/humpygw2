@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260420-113901-fdip",
+      "title": "Mænda",
+      "commanders": [
+        "Mænda"
+      ],
+      "dateStart": "2026-04-20T01:39:01.000Z",
+      "dateEnd": "2026-04-20T02:31:30.000Z",
+      "dateLabel": "4/20/2026, 11:39:01 AM - 4/20/2026, 12:31:30 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260420-113901-fdip",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260419-104510-8git",
       "title": "Mænda",
       "commanders": [

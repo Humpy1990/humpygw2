@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260422-105703-jp4o",
+      "title": "Slap Dat Assassin",
+      "commanders": [
+        "Slap Dat Assassin"
+      ],
+      "dateStart": "2026-04-22T00:57:03.000Z",
+      "dateEnd": "2026-04-22T02:06:42.000Z",
+      "dateLabel": "4/22/2026, 10:57:03 AM - 4/22/2026, 12:06:42 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260422-105703-jp4o",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260420-113901-fdip",
       "title": "Mænda",
       "commanders": [

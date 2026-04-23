@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260423-235825-78xp",
+      "title": "Felicias Toes",
+      "commanders": [
+        "Felicias Toes"
+      ],
+      "dateStart": "2026-04-23T13:58:25.000Z",
+      "dateEnd": "2026-04-23T14:38:04.000Z",
+      "dateLabel": "4/23/2026, 11:58:25 PM - 4/24/2026, 12:38:04 AM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260423-235825-78xp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260422-105703-jp4o",
       "title": "Slap Dat Assassin",
       "commanders": [

@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260426-104717-k6xt",
+      "title": "Mænda",
+      "commanders": [
+        "Mænda"
+      ],
+      "dateStart": "2026-04-26T00:47:17.000Z",
+      "dateEnd": "2026-04-26T02:17:52.000Z",
+      "dateLabel": "4/26/2026, 10:47:17 AM - 4/26/2026, 12:17:52 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260426-104717-k6xt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260423-235825-78xp",
       "title": "Felicias Toes",
       "commanders": [

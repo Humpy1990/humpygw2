@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260428-202529-y9qp",
+      "title": "Leo Altyr",
+      "commanders": [
+        "Leo Altyr"
+      ],
+      "dateStart": "2026-04-28T10:25:29.000Z",
+      "dateEnd": "2026-04-28T11:07:07.000Z",
+      "dateLabel": "4/28/2026, 8:25:29 PM - 4/28/2026, 9:07:07 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260428-202529-y9qp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260427-110638-q86r",
       "title": "Mænda",
       "commanders": [

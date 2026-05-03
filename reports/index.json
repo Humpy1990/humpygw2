@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260503-111509-j7ev",
+      "title": "Daddymanda",
+      "commanders": [
+        "Daddymanda"
+      ],
+      "dateStart": "2026-05-03T01:15:09.000Z",
+      "dateEnd": "2026-05-03T01:59:42.000Z",
+      "dateLabel": "5/3/2026, 11:15:09 AM - 5/3/2026, 11:59:42 AM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260503-111509-j7ev",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260428-234037-h6c1",
       "title": "Felicias Toes",
       "commanders": [

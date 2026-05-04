@@ -3,6 +3,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260504-104742-euxq",
+      "title": "Channeling My X, Daddymanda",
+      "commanders": [
+        "Channeling My X",
+        "Daddymanda"
+      ],
+      "dateStart": "2026-05-04T00:47:42.000Z",
+      "dateEnd": "2026-05-04T01:35:53.000Z",
+      "dateLabel": "5/4/2026, 10:47:42 AM - 5/4/2026, 11:35:53 AM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260504-104742-euxq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 32,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260503-111509-j7ev",
       "title": "Daddymanda",
       "commanders": [

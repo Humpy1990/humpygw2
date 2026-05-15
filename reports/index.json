@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260515-230511-hnpz",
+      "title": "Bigpush, Kingofmesmers",
+      "commanders": [
+        "Bigpush",
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-05-15T13:05:11.000Z",
+      "dateEnd": "2026-05-15T15:05:35.000Z",
+      "dateLabel": "5/15/2026, 11:05:11 PM - 5/16/2026, 1:05:35 AM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260515-230511-hnpz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 32,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260510-103050-09ab",
       "title": "Daddymanda, Felicias Toes",
       "commanders": [

@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260520-103451-kw0g",
+      "title": "Felicias Toes",
+      "commanders": [
+        "Felicias Toes"
+      ],
+      "dateStart": "2026-05-20T00:34:51.000Z",
+      "dateEnd": "2026-05-20T02:08:59.000Z",
+      "dateLabel": "5/20/2026, 10:34:51 AM - 5/20/2026, 12:08:59 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260520-103451-kw0g",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260515-230511-hnpz",
       "title": "Bigpush, Kingofmesmers",
       "commanders": [

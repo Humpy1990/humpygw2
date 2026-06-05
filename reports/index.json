@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-001054-s0lp",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-06-05T14:10:54.000Z",
+      "dateEnd": "2026-06-05T14:57:35.000Z",
+      "dateLabel": "6/6/2026, 12:10:54 AM - 6/6/2026, 12:57:35 AM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260606-001054-s0lp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 27,
+            "color": "#64748b"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 2,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260603-104603-jqyx",
       "title": "Felicias Toes",
       "commanders": [

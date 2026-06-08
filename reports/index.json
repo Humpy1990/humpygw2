@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260608-114213-2w20",
+      "title": "Mænda",
+      "commanders": [
+        "Mænda"
+      ],
+      "dateStart": "2026-06-08T01:42:13.000Z",
+      "dateEnd": "2026-06-08T02:12:09.000Z",
+      "dateLabel": "6/8/2026, 11:42:13 AM - 6/8/2026, 12:12:09 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260608-114213-2w20",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260606-001054-s0lp",
       "title": "Kingofmesmers",
       "commanders": [

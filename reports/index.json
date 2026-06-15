@@ -4,6 +4,40 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260615-103147-z55i",
+      "title": "Cant Nerf Me, Slap Dat Assassin",
+      "commanders": [
+        "Cant Nerf Me",
+        "Slap Dat Assassin"
+      ],
+      "dateStart": "2026-06-15T00:31:47.000Z",
+      "dateEnd": "2026-06-15T02:47:14.000Z",
+      "dateLabel": "6/15/2026, 10:31:47 AM - 6/15/2026, 12:47:14 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260615-103147-z55i",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 33,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260611-232033-3pnd",
       "title": "Cant Nerf Me, Selene Luminare",
       "commanders": [

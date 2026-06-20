@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260620-235909-7j88",
+      "title": "T B E J A Y C E",
+      "commanders": [
+        "T B E J A Y C E"
+      ],
+      "dateStart": "2026-06-20T13:59:09.000Z",
+      "dateEnd": "2026-06-20T14:59:24.000Z",
+      "dateLabel": "6/20/2026, 11:59:09 PM - 6/21/2026, 12:59:24 AM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260620-235909-7j88",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260619-225735-9kun",
       "title": "Kingofmesmers, T B E J A Y C E",
       "commanders": [

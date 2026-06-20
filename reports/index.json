@@ -4,6 +4,45 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260619-225735-9kun",
+      "title": "Kingofmesmers, T B E J A Y C E",
+      "commanders": [
+        "Kingofmesmers",
+        "T B E J A Y C E"
+      ],
+      "dateStart": "2026-06-19T12:57:35.000Z",
+      "dateEnd": "2026-06-20T14:59:24.000Z",
+      "dateLabel": "6/19/2026, 10:57:35 PM - 6/21/2026, 12:59:24 AM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260619-225735-9kun",
+      "summary": {
+        "borderlandsPct": 0.125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260615-103147-0z8b",
       "title": "Cant Nerf Me, Slap Dat Assassin",
       "commanders": [

@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260622-002319-pu58",
+      "title": "Kingofcharrs",
+      "commanders": [
+        "Kingofcharrs"
+      ],
+      "dateStart": "2026-06-21T14:23:19.000Z",
+      "dateEnd": "2026-06-21T14:59:34.000Z",
+      "dateLabel": "6/22/2026, 12:23:19 AM - 6/22/2026, 12:59:34 AM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260622-002319-pu58",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 43,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260620-235909-gyga",
       "title": "T B E J A Y C E",
       "commanders": [

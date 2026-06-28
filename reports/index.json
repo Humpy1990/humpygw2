@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260628-103447-xjoh",
+      "title": "Daddymanda",
+      "commanders": [
+        "Daddymanda"
+      ],
+      "dateStart": "2026-06-28T00:34:47.000Z",
+      "dateEnd": "2026-06-28T02:30:39.000Z",
+      "dateLabel": "6/28/2026, 10:34:47 AM - 6/28/2026, 12:30:39 PM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260628-103447-xjoh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260625-112002-felg",
       "title": "Leo Stole My Heart",
       "commanders": [

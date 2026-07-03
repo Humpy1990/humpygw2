@@ -1,8 +1,31 @@
 {
-  "colorPalette": "violet-purple",
+  "colorPalette": "electric-blue",
   "glassSurfaces": true,
-  "glassmorphic": true,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260703-230313-tzy4",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-07-03T13:03:13.000Z",
+      "dateEnd": "2026-07-03T15:03:08.000Z",
+      "dateLabel": "7/3/2026, 11:03:13 PM - 7/4/2026, 1:03:08 AM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260703-230313-tzy4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 42,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 16
+      }
+    },
     {
       "id": "20260628-103447-xjoh",
       "title": "Daddymanda",

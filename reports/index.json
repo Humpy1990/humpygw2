@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260711-223914-pu0i",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-07-11T12:39:14.000Z",
+      "dateEnd": "2026-07-11T14:57:17.000Z",
+      "dateLabel": "7/11/2026, 10:39:14 PM - 7/12/2026, 12:57:17 AM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260711-223914-pu0i",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260710-231022-t2mt",
       "title": "Kingofmesmers",
       "commanders": [

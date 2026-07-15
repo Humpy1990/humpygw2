@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260715-110929-fyju",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
+      ],
+      "dateStart": "2026-07-15T01:09:29.000Z",
+      "dateEnd": "2026-07-15T01:57:48.000Z",
+      "dateLabel": "7/15/2026, 11:09:29 AM - 7/15/2026, 11:57:48 AM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260715-110929-fyju",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260713-001048-jjvn",
       "title": "Cant Nerf Me, Kingofmesmers",
       "commanders": [

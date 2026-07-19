@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-233830-toof",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-07-19T13:38:30.000Z",
+      "dateEnd": "2026-07-19T14:02:05.000Z",
+      "dateLabel": "7/19/2026, 11:38:30 PM - 7/20/2026, 12:02:05 AM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260719-233830-toof",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260715-110929-fyju",
       "title": "Leo Stole My Heart",
       "commanders": [

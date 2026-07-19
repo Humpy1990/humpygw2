@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-230919-2qg4",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-07-19T13:09:19.000Z",
+      "dateEnd": "2026-07-19T14:01:44.000Z",
+      "dateLabel": "7/19/2026, 11:09:19 PM - 7/20/2026, 12:01:44 AM",
+      "url": "https://Humpy1990.github.io/humpygw2/?report=20260719-230919-2qg4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260719-233830-toof",
       "title": "Kingofmesmers",
       "commanders": [
